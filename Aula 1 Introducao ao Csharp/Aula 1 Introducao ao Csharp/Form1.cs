@@ -108,6 +108,16 @@ namespace Aula_1_Introducao_ao_Csharp
 
         private void button1_Click(object sender, EventArgs e)
         {
+            //verifica se está vazio ou não o campo
+            //método string função IsNullorEmpty
+            //Valida o campo textBox
+            if (string.IsNullOrEmpty(textBox1.Text))
+            {
+                MessageBox.Show("Campo Vazio");
+                textBox1.Focus();//volta o cursor para o texBox
+                return;//para o comando
+            }
+
             switch (check)
             {
                 case 1:
@@ -129,14 +139,14 @@ namespace Aula_1_Introducao_ao_Csharp
                     textBox3.Text = ("Resultado: " + multi.ToString());
                     break;
               }
+        
+    }
 
-        }
-    
 
         private void textBox3_TextChanged(object sender, EventArgs e)
-    {
+        {
 
-    }
+        }
 
     private void button20_Click(object sender, EventArgs e)
     {
