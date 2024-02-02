@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aluno\\Source\\Repos\\gabrieldeoliveira1\\Repositorio_Csharp\\Aula 1 Introducao ao Csharp\\Aula 1 Introducao ao Csharp\\Aula 1 Introducao ao Csharp.csproj",
+      "projectUniqueName": "C:\\Users\\aluno\\Documents\\GitHub\\Repositorio_CSharp1\\Aula 1 Introducao ao Csharp\\Aula 1 Introducao ao Csharp\\Aula 1 Introducao ao Csharp.csproj",
       "projectName": "Aula 1 Introducao ao Csharp",
-      "projectPath": "C:\\Users\\aluno\\Source\\Repos\\gabrieldeoliveira1\\Repositorio_Csharp\\Aula 1 Introducao ao Csharp\\Aula 1 Introducao ao Csharp\\Aula 1 Introducao ao Csharp.csproj",
+      "projectPath": "C:\\Users\\aluno\\Documents\\GitHub\\Repositorio_CSharp1\\Aula 1 Introducao ao Csharp\\Aula 1 Introducao ao Csharp\\Aula 1 Introducao ao Csharp.csproj",
       "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aluno\\Source\\Repos\\gabrieldeoliveira1\\Repositorio_Csharp\\Aula 1 Introducao ao Csharp\\Aula 1 Introducao ao Csharp\\obj\\",
+      "outputPath": "C:\\Users\\aluno\\Documents\\GitHub\\Repositorio_CSharp1\\Aula 1 Introducao ao Csharp\\Aula 1 Introducao ao Csharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
