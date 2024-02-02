@@ -1,0 +1,17 @@
+C:\Users\aluno\Source\Repos\gabrieldeoliveira1\Repositorio_Csharp\Aula 1 Introducao ao Csharp\Aula 1 Introducao ao Csharp\bin\Debug\net6.0-windows\Aula 1 Introducao ao Csharp.exe
+C:\Users\aluno\Source\Repos\gabrieldeoliveira1\Repositorio_Csharp\Aula 1 Introducao ao Csharp\Aula 1 Introducao ao Csharp\bin\Debug\net6.0-windows\Aula 1 Introducao ao Csharp.deps.json
+C:\Users\aluno\Source\Repos\gabrieldeoliveira1\Repositorio_Csharp\Aula 1 Introducao ao Csharp\Aula 1 Introducao ao Csharp\bin\Debug\net6.0-windows\Aula 1 Introducao ao Csharp.runtimeconfig.json
+C:\Users\aluno\Source\Repos\gabrieldeoliveira1\Repositorio_Csharp\Aula 1 Introducao ao Csharp\Aula 1 Introducao ao Csharp\bin\Debug\net6.0-windows\Aula 1 Introducao ao Csharp.dll
+C:\Users\aluno\Source\Repos\gabrieldeoliveira1\Repositorio_Csharp\Aula 1 Introducao ao Csharp\Aula 1 Introducao ao Csharp\bin\Debug\net6.0-windows\Aula 1 Introducao ao Csharp.pdb
+C:\Users\aluno\Source\Repos\gabrieldeoliveira1\Repositorio_Csharp\Aula 1 Introducao ao Csharp\Aula 1 Introducao ao Csharp\obj\Debug\net6.0-windows\Aula_1_Introducao_ao_Csharp.Form_Calculadora.resources
+C:\Users\aluno\Source\Repos\gabrieldeoliveira1\Repositorio_Csharp\Aula 1 Introducao ao Csharp\Aula 1 Introducao ao Csharp\obj\Debug\net6.0-windows\Aula 1 Introducao ao Csharp.csproj.GenerateResource.cache
+C:\Users\aluno\Source\Repos\gabrieldeoliveira1\Repositorio_Csharp\Aula 1 Introducao ao Csharp\Aula 1 Introducao ao Csharp\obj\Debug\net6.0-windows\Aula 1 Introducao ao Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Source\Repos\gabrieldeoliveira1\Repositorio_Csharp\Aula 1 Introducao ao Csharp\Aula 1 Introducao ao Csharp\obj\Debug\net6.0-windows\Aula 1 Introducao ao Csharp.AssemblyInfoInputs.cache
+C:\Users\aluno\Source\Repos\gabrieldeoliveira1\Repositorio_Csharp\Aula 1 Introducao ao Csharp\Aula 1 Introducao ao Csharp\obj\Debug\net6.0-windows\Aula 1 Introducao ao Csharp.AssemblyInfo.cs
+C:\Users\aluno\Source\Repos\gabrieldeoliveira1\Repositorio_Csharp\Aula 1 Introducao ao Csharp\Aula 1 Introducao ao Csharp\obj\Debug\net6.0-windows\Aula 1 Introducao ao Csharp.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Source\Repos\gabrieldeoliveira1\Repositorio_Csharp\Aula 1 Introducao ao Csharp\Aula 1 Introducao ao Csharp\obj\Debug\net6.0-windows\Aula 1 Introducao ao Csharp.sourcelink.json
+C:\Users\aluno\Source\Repos\gabrieldeoliveira1\Repositorio_Csharp\Aula 1 Introducao ao Csharp\Aula 1 Introducao ao Csharp\obj\Debug\net6.0-windows\Aula 1 Introducao ao Csharp.dll
+C:\Users\aluno\Source\Repos\gabrieldeoliveira1\Repositorio_Csharp\Aula 1 Introducao ao Csharp\Aula 1 Introducao ao Csharp\obj\Debug\net6.0-windows\refint\Aula 1 Introducao ao Csharp.dll
+C:\Users\aluno\Source\Repos\gabrieldeoliveira1\Repositorio_Csharp\Aula 1 Introducao ao Csharp\Aula 1 Introducao ao Csharp\obj\Debug\net6.0-windows\Aula 1 Introducao ao Csharp.pdb
+C:\Users\aluno\Source\Repos\gabrieldeoliveira1\Repositorio_Csharp\Aula 1 Introducao ao Csharp\Aula 1 Introducao ao Csharp\obj\Debug\net6.0-windows\Aula 1 Introducao ao Csharp.genruntimeconfig.cache
+C:\Users\aluno\Source\Repos\gabrieldeoliveira1\Repositorio_Csharp\Aula 1 Introducao ao Csharp\Aula 1 Introducao ao Csharp\obj\Debug\net6.0-windows\ref\Aula 1 Introducao ao Csharp.dll
