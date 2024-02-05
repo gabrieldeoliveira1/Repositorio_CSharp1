@@ -27,7 +27,7 @@ namespace Calculadora_equacoes
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
             mover();
-            watermark("Insira um número:", textBox1);  
+            watermark("Insira um número:", textBox1);
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -133,6 +133,43 @@ namespace Calculadora_equacoes
                 }
             };
 
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            //Chamando nova tela;
+            //Nome da Tela;
+            //Usuario nome criado na tela
+            FrmUsuario usuario = new FrmUsuario();
+            usuario.ShowDialog();
+        }
+
+        private void calculadoraToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form1 Calculator = new Form1();
+        }
+
+        private void homeToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmHome Home = new FrmHome();
+            Home.ShowDialog();
+        }
+
+        private void principalToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmPrincipal Principal = new FrmPrincipal();
+            Principal.ShowDialog();
+        }
+
+        private void usuarioToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmUsuario Usuario = new FrmUsuario();
+            Usuario.ShowDialog();
         }
     }
 }

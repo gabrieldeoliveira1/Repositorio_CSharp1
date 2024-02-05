@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Calculadora_equacoes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d6b2e823eb5153f9e0cea4d9942efa6ca6d6e24")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c466d3ed08b56a1712714107c0480b9ac4f11ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("Calculadora_equacoes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Calculadora_equacoes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

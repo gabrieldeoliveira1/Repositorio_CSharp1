@@ -15,3 +15,6 @@ C:\Users\aluno\Documents\GitHub\Repositorio_CSharp1\Calculadora_equacoes\obj\Deb
 C:\Users\aluno\Documents\GitHub\Repositorio_CSharp1\Calculadora_equacoes\obj\Debug\net6.0-windows\Calculadora_equacoes.pdb
 C:\Users\aluno\Documents\GitHub\Repositorio_CSharp1\Calculadora_equacoes\obj\Debug\net6.0-windows\Calculadora_equacoes.genruntimeconfig.cache
 C:\Users\aluno\Documents\GitHub\Repositorio_CSharp1\Calculadora_equacoes\obj\Debug\net6.0-windows\ref\Calculadora_equacoes.dll
+C:\Users\aluno\Documents\GitHub\Repositorio_CSharp1\Calculadora_equacoes\obj\Debug\net6.0-windows\Calculadora_equacoes.FrmHome.resources
+C:\Users\aluno\Documents\GitHub\Repositorio_CSharp1\Calculadora_equacoes\obj\Debug\net6.0-windows\Calculadora_equacoes.FrmPrincipal.resources
+C:\Users\aluno\Documents\GitHub\Repositorio_CSharp1\Calculadora_equacoes\obj\Debug\net6.0-windows\Calculadora_equacoes.FrmUsuario.resources
