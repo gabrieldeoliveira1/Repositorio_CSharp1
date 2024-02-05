@@ -1,0 +1,17 @@
+C:\Users\aluno\Documents\GitHub\Repositorio_CSharp1\Calculadora_equacoes\obj\Debug\net6.0-windows\Calculadora_equacoes.Form1.resources
+C:\Users\aluno\Documents\GitHub\Repositorio_CSharp1\Calculadora_equacoes\obj\Debug\net6.0-windows\Calculadora_equacoes.csproj.GenerateResource.cache
+C:\Users\aluno\Documents\GitHub\Repositorio_CSharp1\Calculadora_equacoes\obj\Debug\net6.0-windows\Calculadora_equacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\GitHub\Repositorio_CSharp1\Calculadora_equacoes\obj\Debug\net6.0-windows\Calculadora_equacoes.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\GitHub\Repositorio_CSharp1\Calculadora_equacoes\obj\Debug\net6.0-windows\Calculadora_equacoes.AssemblyInfo.cs
+C:\Users\aluno\Documents\GitHub\Repositorio_CSharp1\Calculadora_equacoes\obj\Debug\net6.0-windows\Calculadora_equacoes.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\GitHub\Repositorio_CSharp1\Calculadora_equacoes\obj\Debug\net6.0-windows\Calculadora_equacoes.sourcelink.json
+C:\Users\aluno\Documents\GitHub\Repositorio_CSharp1\Calculadora_equacoes\bin\Debug\net6.0-windows\Calculadora_equacoes.exe
+C:\Users\aluno\Documents\GitHub\Repositorio_CSharp1\Calculadora_equacoes\bin\Debug\net6.0-windows\Calculadora_equacoes.deps.json
+C:\Users\aluno\Documents\GitHub\Repositorio_CSharp1\Calculadora_equacoes\bin\Debug\net6.0-windows\Calculadora_equacoes.runtimeconfig.json
+C:\Users\aluno\Documents\GitHub\Repositorio_CSharp1\Calculadora_equacoes\bin\Debug\net6.0-windows\Calculadora_equacoes.dll
+C:\Users\aluno\Documents\GitHub\Repositorio_CSharp1\Calculadora_equacoes\bin\Debug\net6.0-windows\Calculadora_equacoes.pdb
+C:\Users\aluno\Documents\GitHub\Repositorio_CSharp1\Calculadora_equacoes\obj\Debug\net6.0-windows\Calculadora_equacoes.dll
+C:\Users\aluno\Documents\GitHub\Repositorio_CSharp1\Calculadora_equacoes\obj\Debug\net6.0-windows\refint\Calculadora_equacoes.dll
+C:\Users\aluno\Documents\GitHub\Repositorio_CSharp1\Calculadora_equacoes\obj\Debug\net6.0-windows\Calculadora_equacoes.pdb
+C:\Users\aluno\Documents\GitHub\Repositorio_CSharp1\Calculadora_equacoes\obj\Debug\net6.0-windows\Calculadora_equacoes.genruntimeconfig.cache
+C:\Users\aluno\Documents\GitHub\Repositorio_CSharp1\Calculadora_equacoes\obj\Debug\net6.0-windows\ref\Calculadora_equacoes.dll
